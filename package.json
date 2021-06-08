@@ -1,0 +1,23 @@
+{
+  "name": "enlijs_bot",
+  "version": "1.0.0",
+  "description": "The enli discord bot made by Azertoria but then in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "Enli",
+    "Bot",
+    "Azertoria"
+  ],
+  "author": "Jari",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
