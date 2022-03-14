@@ -3,7 +3,7 @@
 
 ### General:
 This bot was made specificly for the Azzey discord server.
-This bot contains a couple of meme command a lot of people won't get without proper explanations
+This bot contains a couple of meme command a lot of people won't get without proper explanations.
 
 ### Commands:
 
